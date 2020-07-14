@@ -1,0 +1,12 @@
+.mainFooter {
+    width: 100%;
+    height: 15vh;
+    background: #39B009;
+    text-align: center;
+    padding-top: 2em;
+    border-top: .5rem solid #09B09F;
+}
+
+.copyright {
+    font-size: 1.2rem;
+}

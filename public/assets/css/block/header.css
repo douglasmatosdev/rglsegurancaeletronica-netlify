@@ -1,0 +1,14 @@
+.mainHeader {
+
+}
+
+/* BEGIN CAROUSEL */
+.mainHeader__carousel {
+	width: 100%;
+	height: 100%;
+}
+.mainHeader__carousel___item > img {
+	width: 100%;
+
+}
+/* END CAROUSEL */
